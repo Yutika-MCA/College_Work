@@ -29,5 +29,6 @@ public class Rhombus {
     {
         int n = 6;
         printPattern(n);
+        System.out.println("github scm polling works!");
     }
 }
